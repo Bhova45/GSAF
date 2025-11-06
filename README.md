@@ -1,6 +1,9 @@
 # 🦈 Global Shark Attack Data Analysis
 
+
 ## 📝 Project Overview
+
+SABINA COMMENT: This is a very schooly description. The outcome of an analysis is an insight that leads to a decision. But just telling people "We cleaned this data so we can provide actionable insights" doesn't tell them what does insights are! This means you need to say something like "We analyzed trends across XX years of global shark attacks data to determine the safest place to open a surfing school."
 
 This project focuses on performing a full **Exploratory Data Analysis (EDA)** and data cleaning process on the **Global Shark Attack File (GSAF) dataset**.
 
@@ -57,6 +60,8 @@ This chart visually demonstrates the difference in risk severity, highlighting A
 ---
 
 ## ⚙️ How to Replicate
+
+SABINA COMMENT: This section is not needed for data analytics projects. This section is needed either by software/data engineers or data scientists that create ML software. Our product is our insights, not our process!
 
 1.  **Clone the Repository:**
     ```bash
