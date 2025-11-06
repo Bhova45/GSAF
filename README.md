@@ -9,6 +9,13 @@ The goal was to transform messy, real-world public data into a clean, actionable
 ---
 
 ## 🔑 Key Findings & Business Insights
+(The top 5 countries interms of Shark Attacks are USA, Australia, South Africa, New Zeland and Papua New Guinea)
+
+🔑 Key Findings & Business Insights
+The analysis addressed several key questions, yielding the following insights:
+
+Geographical Concentration: ["The vast majority of attacks are concentrated in the USA (2573) and Australia (1480), suggesting a correlation with high population and aquatic recreation rates in those regions."]
+Most Common Activity: ["Surfing was identified as the activity most frequently associated with recorded attacks, followed by swimming/wading."]
 
 The analysis addressed several key questions, yielding the following insights:
 
