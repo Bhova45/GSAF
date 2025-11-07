@@ -57,15 +57,4 @@ This chart visually demonstrates the difference in risk severity, highlighting A
 | **Jupyter Notebook** | Interactive Analysis |
 | **Git & GitHub** | Version Control & Hosting |
 
----
 
-## ⚙️ How to Replicate
-
-SABINA COMMENT: This section is not needed for data analytics projects. This section is needed either by software/data engineers or data scientists that create ML software. Our product is our insights, not our process!
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/Bhova45/Global-Shark-Attack-Data-Analysis.git](https://github.com/Bhova45/Global-Shark-Attack-Data-Analysis.git)
-    ```
-2.  **Open the Notebook:** Launch the **`GSAF.ipynb`** file in a Jupyter environment.
-3.  **Run All Cells:** Execute all cells sequentially to reproduce the data cleaning, analysis, and visualizations.
